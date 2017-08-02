@@ -1,0 +1,6 @@
+RESTful-Java-Client-RESTEasyt-Example.zip
+*.classpath
+RESTfulExample/.project
+*.prefs
+RESTfulExample/.settings/org.eclipse.wst.common.component
+RESTfulExample/.settings/org.eclipse.wst.common.project.facet.core.xml
